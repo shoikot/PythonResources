@@ -1,0 +1,3 @@
+https://github.com/choniyuazwan/python-fundamental
+https://github.com/choniyuazwan/python-data-cheatsheet
+https://github.com/choniyuazwan/python-tutorial
